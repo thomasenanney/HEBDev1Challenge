@@ -1,5 +1,5 @@
 # HEBDev1Challenge
-This project was made to satisfy the reuirements for the HEB Developer 1 Coding challenge.
+This project was made to satisfy the requirements for the HEB Developer 1 Coding challenge.
 
 The input:
 Hickory, dickory, dock.
