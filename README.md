@@ -1,14 +1,17 @@
-# HEBDev1Challenge
+# HEB Developer 1 Challenge 
 This project was made to satisfy the requirements for the HEB Developer 1 Coding challenge.
 
-The input:
+## Input:
+```
 Hickory, dickory, dock.
 The mouse ran up the clock.
 The clock struck one,
 The mouse ran down,
 Hickory, dickory, dock.
+```
 
-The output:
+## Output:
+```
     the | ==== (4)
   mouse | == (2)
 hickory | == (2)
@@ -20,3 +23,4 @@ dickory | == (2)
  struck | = (1)
      up | = (1)
    down | = (1)
+```
